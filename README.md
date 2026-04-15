@@ -1,0 +1,2 @@
+# Create-the-two-matrices-and-calculate-the-sum-of-all-the-elements-in-the-matrices
+Two matrices are created by arranging numbers in rows and columns. Each element is accessed using its row and column index. To find the sum, all elements of both matrices are added individually. This process helps in understanding matrix operations and improves problem-solving skills in programming and mathematics.
